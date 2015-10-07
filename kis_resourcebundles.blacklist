@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE m_blackListFile>
+<resourceFilesList>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/bundles/vb2D_WATERCOLOR.bundle</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/bundles/vb1B_CONCEPT.bundle</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/bundles/vb2B_PAINT.bundle</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/bundles/vb2C_MIX.bundle</name>
+ </file>
+</resourceFilesList>

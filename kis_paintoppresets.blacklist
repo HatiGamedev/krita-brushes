@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE m_blackListFile>
+<resourceFilesList>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon Pixel.kpp</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon PixelWX1732.kpp</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon PixelXX1732.kpp</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon Pixel Mix.kpp</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon Pixel MixWX1732.kpp</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon Pixel MixtW1732.kpp</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon Pixel MixXX1732.kpp</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon Pixel MixYX1732.kpp</name>
+ </file>
+ <file>
+  <name>~/AppData/Roaming/krita/share/apps/krita/paintoppresets/Hexagon PixelYX1732.kpp</name>
+ </file>
+</resourceFilesList>
