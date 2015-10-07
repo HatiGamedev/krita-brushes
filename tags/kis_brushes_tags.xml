@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tags>
 <tags>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3B_HAIR.bundle:brushes/Hairy 35.gbr" md5="59bKyQLaUG5uNvrnGVFiBg==">
-  <tag>vb3B_HAIR</tag>
- </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Shape014.gbr" md5="DUZkzvRkrPwEd9ghr++VQQ==">
-  <tag>vb3D_FOLIAGE</tag>
- </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3A_TEXTURE.bundle:brushes/mybrush3.gbr" md5="woaHO0zF6ubedvUnzxE9Sg==">
-  <tag>vb3A_TEXTURE</tag>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb2A_PENCIL.bundle:brushes/Tex0817.gbr" md5="XT52XiP8pQ8Q7wZfdm0I4A==">
+  <tag>vb2A_PENCIL</tag>
  </resource>
  <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3C_CLOUDS.bundle:brushes/Spots034.gbr" md5="bE5+9KQfU9hPsqLRCkERHw==">
   <tag>vb3C_CLOUDS</tag>
  </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_029.gbr" md5="JZ2CilNrxI/YiMCdPeD4gw==">
-  <tag>vb3D_FOLIAGE</tag>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3B_HAIR.bundle:brushes/Hairy 35.gbr" md5="59bKyQLaUG5uNvrnGVFiBg==">
+  <tag>vb3B_HAIR</tag>
  </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Shapes_014.gbr" md5="pC/cKTZSJL1bqcGUX0VbPw==">
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_028.gbr" md5="sm45tA/6oWo7Mg6rkDPFWg==">
   <tag>vb3D_FOLIAGE</tag>
- </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_018.gbr" md5="ToNZPQMC/I2gcxAp04FbhQ==">
-  <tag>vb3D_FOLIAGE</tag>
- </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3A_TEXTURE.bundle:brushes/Brush 0579.gbr" md5="FC4qEAHAoKnmnUxNH0wAEw==">
-  <tag>vb3A_TEXTURE</tag>
  </resource>
  <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/LJF_Foliage_Branches_Brush_01.gih" md5="lPxCmY+uuU8h2M3KoZTdXQ==">
   <tag>vb3D_FOLIAGE</tag>
@@ -31,35 +19,47 @@
  <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb2A_PENCIL.bundle:brushes/Brush255183.gbr" md5="CG/onFK+K+u8N7lzHTdqVQ==">
   <tag>vb2A_PENCIL</tag>
  </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb2A_PENCIL.bundle:brushes/Tex0817.gbr" md5="XT52XiP8pQ8Q7wZfdm0I4A==">
-  <tag>vb2A_PENCIL</tag>
- </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_028.gbr" md5="sm45tA/6oWo7Mg6rkDPFWg==">
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_029.gbr" md5="JZ2CilNrxI/YiMCdPeD4gw==">
   <tag>vb3D_FOLIAGE</tag>
  </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_005.gbr" md5="Yl5QGUBt7ShbLLOtI048kQ==">
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_004.gbr" md5="ZR4ezCMdI15kUI2Iumh6CQ==">
   <tag>vb3D_FOLIAGE</tag>
  </resource>
  <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_026.gbr" md5="mkAgcNJuH15W3Ndz9WDgOg==">
   <tag>vb3D_FOLIAGE</tag>
  </resource>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_005.gbr" md5="Yl5QGUBt7ShbLLOtI048kQ==">
+  <tag>vb3D_FOLIAGE</tag>
+ </resource>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Shapes_014.gbr" md5="pC/cKTZSJL1bqcGUX0VbPw==">
+  <tag>vb3D_FOLIAGE</tag>
+ </resource>
  <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3A_TEXTURE.bundle:brushes/Cracks004.gbr" md5="n6VncaK1KATshIb3sNtDeQ==">
   <tag>vb3A_TEXTURE</tag>
  </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3A_TEXTURE.bundle:brushes/Cracks002.gbr" md5="sf2F3MS1+9NEYjiV3ZPfzA==">
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3A_TEXTURE.bundle:brushes/mybrush3.gbr" md5="woaHO0zF6ubedvUnzxE9Sg==">
+  <tag>vb3A_TEXTURE</tag>
+ </resource>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3E_MISC.bundle:brushes/mybrush7.gbr" md5="VIZtt/IRmufT00tg6Ll3+A==">
+  <tag>vb3E_MISC</tag>
+ </resource>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_018.gbr" md5="ToNZPQMC/I2gcxAp04FbhQ==">
+  <tag>vb3D_FOLIAGE</tag>
+ </resource>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3A_TEXTURE.bundle:brushes/Brush 0579.gbr" md5="FC4qEAHAoKnmnUxNH0wAEw==">
   <tag>vb3A_TEXTURE</tag>
  </resource>
  <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3C_CLOUDS.bundle:brushes/CloudyBrush2.gbr" md5="WZZKQWZFWq76HxMFscSUJA==">
   <tag>vb3C_CLOUDS</tag>
  </resource>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Shape014.gbr" md5="DUZkzvRkrPwEd9ghr++VQQ==">
+  <tag>vb3D_FOLIAGE</tag>
+ </resource>
  <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb2A_PENCIL.bundle:brushes/Tex4265.gbr" md5="zpIooCGMOV6TzX9tlvynTg==">
   <tag>vb2A_PENCIL</tag>
  </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3E_MISC.bundle:brushes/mybrush7.gbr" md5="VIZtt/IRmufT00tg6Ll3+A==">
-  <tag>vb3E_MISC</tag>
- </resource>
- <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3D_FOLIAGE.bundle:brushes/Illustration_004.gbr" md5="ZR4ezCMdI15kUI2Iumh6CQ==">
-  <tag>vb3D_FOLIAGE</tag>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/vb3A_TEXTURE.bundle:brushes/Cracks002.gbr" md5="sf2F3MS1+9NEYjiV3ZPfzA==">
+  <tag>vb3A_TEXTURE</tag>
  </resource>
  <resource identifier="dummy">
   <tag>vb2C_MIX</tag>
