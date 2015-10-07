@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tags>
+<tags>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Ink_tilt_10.kpp" md5="Za6SphefASdbCP3+jH6jfA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Screentones_eraser.kpp" md5="CD1BPA8rTaJDd+MM0xF5QA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Sparkle_wet.kpp" md5="0z90oFiQvfdSx/mL5xLm/A=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Block_bristles.kpp" md5="badnTeJroPQ0kGYk5Xc39g=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Bristles_wet.kpp" md5="H1JI5+4OsugW1tTMiJBPUg=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Block_basic.kpp" md5="NNR2MgWZNXTbDnTbX8hsRg==">
+  <tag>Favorite Presets</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Block_wet_tilt.kpp" md5="i0lhTxtr5SfVGfHdNOzG9A=="/>
+ <resource identifier="~/.kde4/share/apps/krita/paintoppresets/pixel square.kpp" md5="4FhUvCYfzl2vmy9ZYzSdzA==">
+  <tag>pixel-art</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Splat_wet_cells.kpp" md5="AwjsNqVC2oJjMgXtmwankQ=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Smudge_textured.kpp" md5="fEHvZO4AdFGJojO1fIIMgw=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Airbrush_eraser.kpp" md5="KJQuTH6N7Qp4Ezs9LFvAHw=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/pixel1.kpp" md5="FTNb4QU6/6AtfSeN2fVnlw==">
+  <tag>pixel-art</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/ink_precision_03.kpp" md5="ApPzjbkS3/AZKQvquwpv6g=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Eraser_circle.kpp" md5="AebX4dlY1cnZw4ZrwRfuJg==">
+  <tag>Favorite Presets</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Ink_brush_25.kpp" md5="Xebx+7bK0mL3q9vPGjfXaA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Smudge_soft.kpp" md5="ZGyOAEZd+QNmT0m3QYlYYw=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Ink_circle_05.kpp" md5="+ZlhtFsdwSw35utTbn3d+g=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Ink_circle_10.kpp" md5="9lf5ssxI9l19S8REaWTy/A=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Block_fuzzy.kpp" md5="gWod5rQTdcinE5Buykcl/Q=="/>
+ <resource identifier="~/.kde4/share/apps/krita/paintoppresets/pixel rectpX1298.kpp" md5="1uz47djGRSwWnTzUiLBhgw==">
+  <tag>pixel-art</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Fill_block.kpp" md5="WYPAI9HnZM+31iDIIX4Eiw=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Ink_tilt_20.kpp" md5="LvkeIrEisX/FjkyCk+/TIA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Smudge_rake.kpp" md5="6kLCBYsggIZCxWFNkjG6hw=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Fill_circle.kpp" md5="gBFPik0q6QPItP+LgNMJlw=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Eraser_hard.kpp" md5="WYb3P2m6yAPzCP6UcZ9OFg==">
+  <tag>Erasers</tag>
+  <tag>Favorite Presets</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Layout_circle_soft.kpp" md5="m50TBtJ7JyEd9zehB3njPA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Block_mix_tilt.kpp" md5="tYkdoZ8DyA3EZbqkuBTRyQ=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Block_tilt.kpp" md5="xpdTagkfb76nPiIFms9L5A=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Basic_tip_default.kpp" md5="QHxqwLMo6m73dsbXha4t1Q==">
+  <tag>Favorite Presets</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/FX_color_HSY.kpp" md5="ysxBoj1a1QYE9cRNf7PyHA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Basic_circle.kpp" md5="KdtxZbwqJaYI0QvrQ/cHag=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Sparkle_wet_soft.kpp" md5="iatG6w0IUd7sn2Q2Q9sOLg=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Ink_gpen_10.kpp" md5="eq70dIWrKGFNRz58q4hOpw==">
+  <tag>Favorite Presets</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Ink_ballpen.kpp" md5="4RDtwTYaFd7G4oW+M7XabQ=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/FX_splat_starfield.kpp" md5="sygFcfGfV9WYWA8WPoLc5g=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Bristles_hairy.kpp" md5="LYHcKGV344ZuzRsD8eWttw==">
+  <tag>Favorite Presets</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Basic_tip_gaussian.kpp" md5="KO3fC5sSIawmyoprNj4Gjw=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Layout_block.kpp" md5="NJLSuh5hldaTIyR7k2qUFQ=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Basic_mix_soft.kpp" md5="kraUtRXtAPFN42XT9iL1Ow=="/>
+ <resource identifier="~/.kde4/share/apps/krita/paintoppresets/pixel vertical-rect.kpp" md5="g6VXde77xyPC6QL8bF7DDw==">
+  <tag>pixel-art</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Basic_wet_soft.kpp" md5="dfYwrb91jZXJQrVUR4nUxA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/FX_blur_light.kpp" md5="SSSiIrr959jpNXBouMmnYA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Basic_mix.kpp" md5="+MKlutfRsrv3Vz45EVHzug=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Eraser_soft.kpp" md5="RT+G7vQx4U8luUHsisZkzw==">
+  <tag>Favorite Presets</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/FX_explode.kpp" md5="FAv9bj1807aygPrCVHmtOQ=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Smudge_rake_2.kpp" md5="Di7CAhmne/DZO6/yc3uXgA=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Splat_mix_cells.kpp" md5="I4aD9y63gSwMNVcPTBszvg=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/FX_glow_add.kpp" md5="aJ6B32YjYVRB4nuqJ9jQ/Q=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Basic_tip_soft.kpp" md5="Sf+LwjQCa/bLxaomd1xP1A=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Smudge_block_tilt.kpp" md5="PNgWP5sRU0WGeGtZrKdLgw=="/>
+ <resource identifier="~/.kde4/share/apps/krita/paintoppresets/pixel horizontal-rect.kpp" md5="m/jJrF8LtH/NrdokZxhA9Q==">
+  <tag>pixel-art</tag>
+ </resource>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Ink_gpen_25.kpp" md5="2t9QkmKNCs6snwTNZAX57w=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Bristles_mix.kpp" md5="FbO1eQ7M4qEpbUB3I0YGtQ=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/Basic_wet.kpp" md5="bhiruEnfPq9QtfH70mNBFQ=="/>
+ <resource identifier="/usr/share/apps/krita/paintoppresets/FX_overlay.kpp" md5="ed8osKzPztdJ8mYVnNGswA=="/>
+ <resource identifier="dummy">
+  <tag>Erasers</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>Wet</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>FX</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>Ink</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>pixel-art</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>Mix</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>Smudge</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>Block</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>Favorite Presets</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>Circle</tag>
+ </resource>
+</tags>
