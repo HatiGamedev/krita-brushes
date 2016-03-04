@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tags>
-<tags/>
+<tags>
+ <resource identifier="bundle://~/AppData/Roaming/krita/share/apps/krita/bundles/mix-brushes.bundle:patterns/4-flathack-black55.png" md5="/cbrjLXmfpL3fmHoIts+Sg==">
+  <tag>mix-brushes</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag>pixel-art</tag>
+ </resource>
+</tags>

@@ -1,6 +1,6 @@
 [Desktop Entry]
-Icon=.icon/IndexPainting.png
+Icon=.icon/_IndexPainting.png
 Name=Index Painting
 Type=Link
-URL[$e]=.source/IndexPainting.kra
+URL[$e]=.source/_IndexPainting.kra
 X-KDE-Hidden=false
